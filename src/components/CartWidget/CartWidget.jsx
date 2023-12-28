@@ -1,5 +1,3 @@
-import React from 'react';
-
 const CartWidget = ({ itemCount }) => {
     return (
         <div className="cart-widget">
@@ -9,4 +7,4 @@ const CartWidget = ({ itemCount }) => {
     );
 };
 
-export default CartWidget;
+export default CartWidget
